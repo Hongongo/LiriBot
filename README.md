@@ -44,5 +44,5 @@ See also the list of [contributors](https://github.com/Hongongo/liri-node-app/gr
 
 ## URLS
 
-* [Github project](https://github.com/darkyer/liri-node-app)
+* [Github project](https://github.com/Hongongo/LiriBot)
 * [Personal Portfolio](https://hongongo.github.io/Portfolio/)
